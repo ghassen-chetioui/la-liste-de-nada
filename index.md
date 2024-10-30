@@ -1,0 +1,74 @@
+# Films
+- The Shawshank Redemption
+- Forrest Gump
+- Ocean's Eleven
+- One Flew Over the Cuckoo's Nest
+- Interstellar
+- The Godfather
+- The Dark Knight Rises
+- V for Vendetta
+- 12 Angry Men
+- Schindler's List
+- Inception
+- Se7en
+- Saving Private Ryan
+- The Green Mile
+- Life Is Beautiful
+- Gladiator
+- Whiplash
+- The Prestige
+- The Usual Suspects
+- Intouchables
+- Inglourious Basterds
+- Braveheart
+- Good Will Hunting
+- Reservoir Dogs
+- Scent of a Woman
+- Snatch
+- Green Book
+- Shutter Island
+- Catch Me If You Can
+- Gran Torino
+- Million Dollar Baby
+- Gone Girl
+- Into the Wild
+- Slevin
+- Little Miss Sunshine
+- Freedom Writers
+- American Gangster
+# Livres
+- Cent Ans de solitude
+- L'Amie prodigieuse
+- Les Fils de la Médina
+- Propos du matin et du soir
+- La Chanson des gueux
+- Le livre des jours
+- Les Gens de la caverne
+- L'Immeuble Yacoubian
+- Chicago
+- 1984
+- L'étranger
+- Le Procès
+- La Servante écarlate
+- Anges et Démons
+- Da Vinci Code
+- Le Symbole perdu
+- Inferno
+- Forteresse digitale
+- La Cité de Dieu
+- Le Guide du voyageur galactique
+- L'Amour aux temps du choléra
+- Harry Potter
+- 
+# Series
+- True Detective
+- The Queen's Gambit
+- Breaking Bad
+- The Wire
+- Sherlock
+- Dexter
+- Prison Break
+- The Big Bang Theory
+- Young Sheldon
+- Peaky Blinders
+- Scrubs
